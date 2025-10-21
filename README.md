@@ -10,3 +10,9 @@ Back-end: JavaScript puro, focado na lógica de dados e controle das requisiçõ
 Front-end: HTML e CSS para a estruturação e estilização da interface, garantindo um design responsivo e acessível.
 
 Este repositório demonstra a aplicação prática dessas tecnologias para criar uma solução funcional para o setor de saúde.
+
+Como Visualizar o Projeto:
+
+Clone o repositório [(https://github.com/mateussmunizz/MarqueSuaConsulta)].
+
+Abra o arquivo **index.html** em seu navegador para utilizar a agenda.
